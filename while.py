@@ -1,6 +1,6 @@
 """
 i = 0
-a = 'geeksforgeeks'
+a = 'somepeoplearegood'
 while i < len(a):
     if a[i] == 'e' or a[i] == 's':
         i += 1
